@@ -4,6 +4,14 @@ Este projeto utiliza visão computacional com redes neurais convolucionais (CNNs
 
 ---
 
+## 👥 Responsáveis pelo Projeto
+
+- Guilherme Alves Pedroso - RM555357
+- João Vitor Silva Nascimento - RM554694
+- Rafael Souza Bezerra - 557888
+
+---
+
 ## 📁 Estrutura do Dataset
 
 O conjunto de dados é composto apenas por imagens, organizadas da seguinte forma:
