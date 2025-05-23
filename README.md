@@ -108,19 +108,15 @@ Principais pacotes utilizados:
 
 ## ▶️ Como Executar
 
-1. Certifique-se de ter o modelo salvo como `modelo_mottu.keras`
-2. Execute o script principal:
+1. Execute o script para treinamento do modelo:
+```bash
+python treinar_modelo.py
+```
+2. Certifique-se de ter o modelo salvo como `modelo_mottu.keras`
+3. Execute o script principal:
 
 ```bash
 python main.py
 ```
 
 Ele fará a predição de todas as imagens no diretório `dataset`, exibindo os resultados por imagem.
-
----
-
-## 🔄 Melhorias Futuras
-
-- Balanceamento do dataset (aumentar imagens da classe `mottu_e`)
-- Testar arquiteturas mais robustas como MobileNetV2 ou EfficientNet
-- Usar validação cruzada e ajuste de hiperparâmetros com Keras Tuner
